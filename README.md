@@ -6,7 +6,7 @@ Portfolio professionnel public : support N2, Windows, Active Directory, Microsof
 
 ## 🌐 Site
 
-Une fois GitHub Pages activé, le site sera accessible sous :
+Une fois GitHub Pages activé, le site sera accessible sous : https://bekourkoussay.github.io/Support_N2-Administration_Systemes-CV-Portfolio/index.html
 
 
 ## 📁 Organisation
