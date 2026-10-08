@@ -8,7 +8,6 @@ Portfolio professionnel public : support N2, Windows, Active Directory, Microsof
 
 Une fois GitHub Pages activé, le site sera accessible sous :
 
-`https://<votre-compte>.github.io/<nom-du-repo>/`
 
 ## 📁 Organisation
 
